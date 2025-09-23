@@ -1,0 +1,6 @@
+package com.example.patent;
+
+public abstract class Shape {
+    int x;
+    int y;
+}
