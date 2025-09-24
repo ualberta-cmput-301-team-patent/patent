@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Erik Bacsa>`
-- **CCID:** `<ebacsa>`
+- **Full Name:** `Ebuka Odeluga`
+- **CCID:** `chukwueb`
 
 ## References and Resources
 
