@@ -1,4 +1,4 @@
 package com.example.patent;
 
-public class Square {
+public class Square extends Shape{
 }
