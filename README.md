@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Erik Bacsa>`
-- **CCID:** `<ebacsa>`
+- **Full Name:** `<Michael Gao>`
+- **CCID:** `<mhgao>`
 
 ## References and Resources
 
@@ -13,5 +13,3 @@ N/A
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
