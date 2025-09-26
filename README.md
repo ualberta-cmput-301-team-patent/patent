@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Erik Bacsa>`
-- **CCID:** `<ebacsa>`
+- **Full Name:** `<Moffat Muriithi>`
+- **CCID:** `<mmuriith>`
 
 ## References and Resources
 
